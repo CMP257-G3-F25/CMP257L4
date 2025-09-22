@@ -1,0 +1,48 @@
+body{
+  padding: 25px;
+  background-color: #fdfbd4;
+  font-family: Sans-Serif;
+}
+
+header, form, footer{
+  background-color: #e3f2fd;
+}
+
+.title {
+	color: #5C6AC4;
+}
+
+.title1{
+  font-size:30px;
+  text-align: center;
+}
+
+h2{
+  font-size:25px;
+}
+
+div *{
+  margin-top:5px;
+}
+label{
+  font-size:18px;
+  padding:5px;
+ 
+}
+input{
+  
+}
+
+#formsubmission{
+  border: 15px solid #cccccc;
+}
+
+.button1{
+  background-color:white;
+  border:5px dotted pink;
+  padding:2px;
+}
+a:hover{
+  font-size:35px;
+  color:red;
+}
